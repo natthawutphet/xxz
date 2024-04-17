@@ -15,6 +15,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
    <meta name="google-site-verification" content="RUGTR3VbcF6w2Ejs1n1-0CThkzCgXGNxswXwfbO0D0s" />
+    <meta name="google-site-verification" content="Uc8DCUMQOohBKW5-pPfoEax57Mzh0Ziu6Qm4nVXQhq4" />
    <Script type="application/ld+json">
           {`
             {
